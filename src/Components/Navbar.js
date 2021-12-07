@@ -1,7 +1,6 @@
 import React from "react";
 import { FaFacebookF, FaYoutube, FaTwitter } from "react-icons/fa";
 import "./Navbar.css";
-import running from './running.mp4';
 import { NavLink } from 'react-router-dom'; 
 
 
